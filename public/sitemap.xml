@@ -1,11 +1,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://focus-website.vercel.app/</loc>
+    <loc>https://focus-website-dusky.vercel.app/</loc>
   </url>
   <url>
-    <loc>https://focus-website.vercel.app/courses</loc>
+    <loc>https://focus-website-dusky.vercel.app/courses</loc>
   </url>
   <url>
-    <loc>https://focus-website.vercel.app/contact</loc>
+    <loc>https://focus-website-dusky.vercel.app/contact</loc>
   </url>
 </urlset>
